@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div align='center'>
+  <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=kdgosu53&color=dark">
+</div>
+
 <!--
 **JiHwanLee-dev/JiHwanLee-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
